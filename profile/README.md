@@ -1,8 +1,11 @@
 ### Welcome to the NMSUD Github organisation
 
-These public repositories can be used by anyone to help keep the spirit of Unification Day alive! We believe that nobody owns Unification Day, everyone is free to participate!.
+These public repositories can be used by anyone to help keep the spirit of [Unification Day][unificationDay] alive! \
+We believe that nobody owns [Unification Day][unificationDay], everyone is free to participate!
 
 Check out our [homepage][nmsudWebsite]!
+
+<br />
 
 [![Discord](https://img.shields.io/discord/625007826913198080?style=for-the-badge)][discord]
 ![Profile views](https://komarev.com/ghpvc/?username=NMSUD&color=green&style=for-the-badge)
@@ -20,6 +23,7 @@ Check out our [homepage][nmsudWebsite]!
 <!--- [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=13d096719f67&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) --->
 
 [nmsudWebsite]: https://nmsud.com
+[unificationDay]: https://nomanssky.fandom.com/wiki/Unification_Day
 [githubSecurityAdvisory]: https://github.com/NMSUD/Form/security/advisories
 [contactEmail]: support@nmsassistant.com
 [discord]: https://discord.gg/jQrNeWeTwR
